@@ -1,13 +1,46 @@
 .name {
-  border: 30px solid grey;
+  border: 30px solid black;
   border-radius: 2rem;
-  background-color: grey;
+  background-color: black;
   text-align: center;
   font-weight: 900;
   font-style: oblique;
   color: white;
+  width: 80%;
 }
 
 .text2 {
   color: tomato;
+}
+
+#txt-input{
+  width: 60%;
+  padding-left: 10rem;
+}
+
+#output{
+  width:60%;
+  border-color: black;
+  background-color: whitesmoke;
+  padding-left: 10rem;
+}
+
+#btn-translate{
+  border: 10px solid black;
+  color:white;
+  font-weight: 900;
+  background-color: black;
+  border-radius: 10rem;
+  cursor: pointer;
+
+}
+
+#body{
+ margin: auto;
+ background-color: yellow;
+  border:6px solid black;
+  width: 40rem;
+  padding-left: 4rem;
+  text-align: center;
+  
 }
